@@ -1,5 +1,7 @@
 # HAVELSAN
 
+![main image](https://github.com/HVLRED/.github/blob/main/img/hvl.png)
+
 HAVELSAN is one of the leading technology companies of Türkiye, established in 1982 as a corporation affiliated with the Turkish Armed Forces Foundation. Thanks to its decades-long experience and highly qualified human resources, HAVELSAN provides high technology-based software-intensive solutions and products for armed forces, public and private sectors. 
 
  
